@@ -1,0 +1,40 @@
+.font-content{
+    width: 600px;
+    border: 1px solid black;
+    margin: 50px auto;
+}
+
+.login-form{
+    width: 300px;
+    margin: 0 auto;
+}
+
+h2{
+    text-align: center;
+}
+
+.control-group{
+    margin-bottom: 15px;
+}
+
+.login-field{
+    text-align: center;
+}
+
+.login-field-icon{
+    display: inline-block;
+    width: 85px;
+}
+
+.control-position{
+    text-align: center;
+}
+
+.btn{
+    width: 150px;
+    padding: 5px;
+    background-color:  #3498DB;
+    color: azure;
+    margin-top: 10px;
+    border: 2px solid transparent;
+}
